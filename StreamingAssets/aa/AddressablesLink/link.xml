@@ -9,9 +9,6 @@
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
     <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
   </assembly>
-  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="UnityEngine.AudioClip" preserve="all" />
-  </assembly>
   <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.Object" preserve="all" />
     <type fullname="UnityEngine.Texture2D" preserve="all" />
@@ -20,7 +17,6 @@
     <type fullname="Utage.AdvChapterData" preserve="all" />
     <type fullname="Utage.AdvImportBook" preserve="all" />
     <type fullname="Utage.AdvImportScenarios" preserve="all" />
-    <type fullname="Utage.AdvEntityData" preserve="nothing" serialized="true" />
     <type fullname="Utage.AdvImportScenarioSheet" preserve="nothing" serialized="true" />
     <type fullname="Utage.StringGrid" preserve="nothing" serialized="true" />
     <type fullname="Utage.StringGridRow" preserve="nothing" serialized="true" />
